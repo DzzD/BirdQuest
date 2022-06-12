@@ -1,0 +1,15 @@
+
+'Window':
+{
+	orientationModes: [Ti.UI.PORTRAIT],
+}
+
+'TIGLView' :
+{
+	units: "dp",
+	width: Ti.UI.FILL,
+	height: Ti.UI.FILL,
+	top: 0,
+	backgroundColor: "#ffffff",
+}
+

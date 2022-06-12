@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<Button onClick="openGame" title="Start"></Button>
+		<Button onClick="openLevelSelection" title="Levels"></Button>
+	</Window>
+</Alloy>

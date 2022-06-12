@@ -1,0 +1,14 @@
+
+'TIGLView' :
+{
+	units: "dp",
+	width: Ti.UI.FILL,
+	height: Ti.UI.FILL,
+	top: 0,
+	backgroundColor: "#7d7c7a",
+}
+
+'TIGLView[formFactor=handheld]': 
+{
+    units: "hdp",
+}

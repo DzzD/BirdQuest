@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="win">
+		<TIGLView id="tiglView" module="fr.dzzd.tigl" />
+	</Window>
+</Alloy>

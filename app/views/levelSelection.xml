@@ -1,0 +1,5 @@
+<Alloy>
+	<Window>
+		<TIGLView module="fr.dzzd.tigl" onInit="init" onResize="resize" />
+	</Window>
+</Alloy>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app 
+  xmlns:ti="http://ti.appcelerator.org">
+  <id>fr.dzzd.birdquest</id>
+  <name>Bird's Quest</name>
+  <version>1.0</version>
+  <publisher>DzzD</publisher>
+  <url>unspecified</url>
+  <description/>
+  <copyright>2021 by DzzD</copyright>
+  <icon>appicon.png</icon>
+  <fullscreen>true</fullscreen>
+  <navbar-hidden>false</navbar-hidden>
+  <analytics>false</analytics>
+  <guid>87697a31-f97e-4191-9777-793ad7160fcb</guid>
+  <property name="ti.ui.defaultunit" type="string">dp</property>
+  <property name="run-on-main-thread" type="bool">true</property>
+  <android 
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <manifest 
+      xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1">
+    </manifest>
+  </android>
+  <modules>
+	<module platform="android">fr.dzzd.tigl</module>
+  </modules>
+  <deployment-targets>
+    <target device="android">true</target>
+  </deployment-targets>
+  <sdk-version>11.0.0.RC</sdk-version>
+  <plugins>
+    <plugin version="1.0">ti.alloy</plugin>
+  </plugins>
+</ti:app>
