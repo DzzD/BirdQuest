@@ -29,6 +29,6 @@
   </deployment-targets>
   <sdk-version>11.0.0.RC</sdk-version>
   <plugins>
-    <plugin version="1.0">ti.alloy</plugin>
+    
   </plugins>
 </ti:app>
